@@ -1,0 +1,15 @@
+.pageContainer {
+    margin: auto;
+    max-width: 60%;
+    padding-bottom: 50px;
+}
+
+.groupsContainer {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.numLocks {
+    margin-left: 15px;
+    margin-right: 20px;
+}
